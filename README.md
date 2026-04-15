@@ -10,8 +10,6 @@ A minimal REST API built with Python (FastAPI) and deployed on an AWS EC2 instan
 - **Process Manager:** pm2
 - **Cloud Provider:** AWS EC2 (Amazon Linux)
 
----
-
 ## Running Locally
 
 ### 1. Clone the repo
@@ -81,13 +79,10 @@ Returns personal information.
 }
 ```
 
----
-
 ## Live Deployment
 
 **Base URL:** `http://54.242.186.88`
 
----
 
 ## Deployment Process
 
